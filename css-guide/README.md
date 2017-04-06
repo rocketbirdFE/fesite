@@ -257,6 +257,7 @@ id采用驼峰式命名
 - background
 - transition
 - animation
+
 ```css
 /* not good */
 .element {
