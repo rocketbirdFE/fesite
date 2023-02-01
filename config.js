@@ -4,6 +4,7 @@ var guides = [
   { title: 'Css规范', path: '/css-guide/' },
   { title: 'JavaScript规范', path: '/javascript-guide/' },
   { title: 'JavaScript - ESNext', path: '/es-next-guide/' }
+  { title: 'Vue规范', path: '/vue-guide/' }
 ]
 
 
